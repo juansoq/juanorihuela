@@ -1,2 +1,2 @@
-# juanorihuela
+# juansoq
 Aprendiendo desarrollo de software
